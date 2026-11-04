@@ -1,0 +1,13 @@
+{
+  "name": "Slendytubbies 3 Multiplayer",
+  "author": "Local-Games-Cloud",
+  "version": "1.0.0",
+  "description": "Juego publicado en la Tienda de Local Games.",
+  "cover": "cover.jpg",
+  "logo": "logo.webp",
+  "executable": "Games/Slendytubbies 3 Multiplayer.exe",
+  "archive": "game-comprimido.zip",
+  "mods": {
+    "available": false
+  }
+}
