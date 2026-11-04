@@ -1,13 +1,13 @@
-{
-  "name": "Slendytubbies 3 Multiplayer",
-  "author": "Local-Games-Cloud",
-  "version": "1.0.0",
-  "description": "Juego publicado en la Tienda de Local Games.",
-  "cover": "cover.jpg",
-  "logo": "logo.webp",
-  "executable": "Games/Slendytubbies 3 Multiplayer.exe",
-  "archive": "game-comprimido.zip",
-  "mods": {
-    "available": false
-  }
+﻿{
+    "archive":  "game-comprimido.zip",
+    "description":  "Versión multijugador de Slendytubbies 3. Juego creado por ZeoWorks.",
+    "executable":  "Games/Slendytubbies 3 Multiplayer.exe",
+    "version":  "1.0.0",
+    "author":  "ZeoWorks",
+    "name":  "Slendytubbies 3 Multiplayer",
+    "cover":  "cover.jpg",
+    "mods":  {
+                 "available":  false
+             },
+    "logo":  "logo.webp"
 }
