@@ -1,13 +1,13 @@
-﻿{
-    "archive":  "game-comprimido.zip",
-    "description":  "Versión multijugador de Slendytubbies 3. Juego creado por ZeoWorks.",
-    "executable":  "Games/Slendytubbies 3 Multiplayer.exe",
-    "version":  "1.0.0",
-    "author":  "ZeoWorks",
+{
     "name":  "Slendytubbies 3 Multiplayer",
+    "author":  "ZeoWorks",
+    "version":  "1.0.0",
+    "description":  "Versión multijugador de Slendytubbies 3. Juego creado por ZeoWorks.",
     "cover":  "cover.jpg",
+    "logo":  "logo.webp",
+    "executable":  "Games/Slendytubbies 3 Multiplayer.exe",
+    "archive":  "game-comprimido.zip",
     "mods":  {
                  "available":  false
-             },
-    "logo":  "logo.webp"
+             }
 }
