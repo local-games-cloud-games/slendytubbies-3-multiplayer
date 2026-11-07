@@ -1,8 +1,8 @@
 {
     "name":  "Slendytubbies 3 Multiplayer",
     "author":  "ZeoWorks",
-    "version":  "1.1.0",
-    "description":  "Versión multijugador de Slendytubbies 3. Juego creado por ZeoWorks. Actualización: compilación x64 (IL2CPP).",
+    "version":  "2.62",
+    "description":  "Versión multijugador de Slendytubbies 3. Juego creado por ZeoWorks.",
     "cover":  "cover.jpg",
     "logo":  "logo.webp",
     "executable":  "Games/Slendytubbies 3 Multiplayer (x64)/Slendytubbies 3 Multiplayer.exe",
